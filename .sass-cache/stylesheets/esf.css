@@ -1,0 +1,110 @@
+/* line 1, ../sass/esf.scss */
+.search_filtrate {
+  margin: 0 9.5%;
+  font-size: 12px;
+  background-color: #fff;
+  padding: 0px 25px;
+}
+/* line 7, ../sass/esf.scss */
+.search_filtrate div h5 {
+  font-size: 10px;
+  display: inline-block;
+  font-weight: bold;
+  margin-right: 1.5%;
+}
+/* line 13, ../sass/esf.scss */
+.search_filtrate div span {
+  display: inline-block;
+  margin-right: 1.5%;
+}
+
+/* line 21, ../sass/esf.scss */
+.pxfs {
+  margin: 0 9.5%;
+  background-color: #f6f6f6;
+  padding: 12px 25px;
+  border: 1px solid #e3e3e3;
+}
+/* line 26, ../sass/esf.scss */
+.pxfs a {
+  padding: 2px 5px;
+}
+/* line 29, ../sass/esf.scss */
+.pxfs .default {
+  border: 1px solid #ff6600;
+  color: #ff6600;
+}
+
+/* line 35, ../sass/esf.scss */
+.esf_container_list {
+  margin: 0 9.5%;
+  padding: 1.5% 0;
+  border-bottom: 1px solid #e3e3e3;
+  background-color: #fff;
+}
+/* line 40, ../sass/esf.scss */
+.esf_container_list .lp_info {
+  padding: 0 .5%;
+}
+/* line 42, ../sass/esf.scss */
+.esf_container_list .lp_info .lp_name {
+  margin-bottom: 8px;
+}
+/* line 44, ../sass/esf.scss */
+.esf_container_list .lp_info .lp_name .lp {
+  font-size: 18px;
+}
+/* line 48, ../sass/esf.scss */
+.esf_container_list .lp_info .house_details {
+  margin-top: 5px;
+}
+/* line 51, ../sass/esf.scss */
+.esf_container_list .lp_info .house_build {
+  margin-top: -4px;
+  color: #666;
+}
+/* line 55, ../sass/esf.scss */
+.esf_container_list .lp_info .address {
+  font-size: 12px;
+  color: #666;
+  margin-top: -4px;
+}
+/* line 60, ../sass/esf.scss */
+.esf_container_list .lp_info .btn {
+  width: 30%;
+  border-color: #ff6600;
+  color: #ff6600;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+/* line 68, ../sass/esf.scss */
+.esf_container_list .lp_price {
+  padding-right: 3%;
+}
+/* line 70, ../sass/esf.scss */
+.esf_container_list .lp_price .house_price {
+  text-align: right;
+}
+/* line 73, ../sass/esf.scss */
+.esf_container_list .lp_price .house_price span {
+  color: #ff6600;
+}
+/* line 75, ../sass/esf.scss */
+.esf_container_list .lp_price .house_price span .rmb {
+  font-size: 18px;
+}
+/* line 78, ../sass/esf.scss */
+.esf_container_list .lp_price .house_price span .tj_price {
+  font-size: 34px;
+}
+/* line 84, ../sass/esf.scss */
+.esf_container_list .lp_price .yj_price {
+  text-align: right;
+}
+/* line 87, ../sass/esf.scss */
+.esf_container_list .lp_price a {
+  float: right;
+  width: 80%;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}

@@ -1,0 +1,35 @@
+.hyzq{
+    .hyzq_container{
+        margin-top:25px;
+        margin-bottom:0px;
+        padding:0 10%;
+        .thumbnail{
+            margin-bottom:0;
+        }
+    }
+}
+
+.hyzq_content{
+    padding:0 10%;
+    .container-fluid{
+        h4{
+            padding-bottom: 9px;
+            font-size:20px;
+            color:#505460;
+            border-bottom:1px solid #bcbcbc;
+            font-weight: 800;
+        }
+        .row{
+            .tjf_info{
+                padding:5% 0;
+                p{
+                    color:#686c6b;
+                    text-indent: 2em;
+                    line-height: 30px;
+                    
+                }
+            }
+           
+        }
+    }
+}

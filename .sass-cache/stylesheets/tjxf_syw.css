@@ -1,0 +1,51 @@
+/* line 1, ../sass/tjxf_syw.scss */
+.syw_xq {
+  margin: 0 9.5%;
+  padding: 10px 0 5px;
+  background-color: #f2f2f2;
+}
+/* line 5, ../sass/tjxf_syw.scss */
+.syw_xq .lp_info {
+  margin-top: 1%;
+}
+/* line 7, ../sass/tjxf_syw.scss */
+.syw_xq .lp_info h3 {
+  color: #969293;
+}
+/* line 9, ../sass/tjxf_syw.scss */
+.syw_xq .lp_info h3 span {
+  margin-left: 5px;
+  font-size: 12px;
+  background-color: #fff;
+  color: #716f70;
+  font-weight: 400;
+}
+/* line 17, ../sass/tjxf_syw.scss */
+.syw_xq .lp_info p {
+  color: #747474;
+}
+/* line 21, ../sass/tjxf_syw.scss */
+.syw_xq .lp_price {
+  margin-top: 1%;
+  color: #ff6600;
+}
+/* line 24, ../sass/tjxf_syw.scss */
+.syw_xq .lp_price h3 {
+  font-size: 28px;
+  font-weight: 800;
+}
+/* line 29, ../sass/tjxf_syw.scss */
+.syw_xq .lp_btn {
+  margin-top: 3.3%;
+}
+/* line 31, ../sass/tjxf_syw.scss */
+.syw_xq .lp_btn .btn {
+  font-size: 16px;
+  background-color: #ff6600;
+  width: 70%;
+}
+
+/* line 40, ../sass/tjxf_syw.scss */
+.syw_info p {
+  color: #77777f;
+}

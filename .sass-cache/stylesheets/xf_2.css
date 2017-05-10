@@ -1,0 +1,74 @@
+/* line 1, ../sass/xf_2.scss */
+.tjxf_container_list {
+  margin: 0 9.5% 10px;
+  background-color: #fff;
+}
+/* line 4, ../sass/xf_2.scss */
+.tjxf_container_list .lp_info {
+  margin-top: 4.5%;
+}
+/* line 6, ../sass/xf_2.scss */
+.tjxf_container_list .lp_info .lp_name {
+  margin-bottom: 10px;
+}
+/* line 8, ../sass/xf_2.scss */
+.tjxf_container_list .lp_info .lp_name .lp {
+  font-size: 28px;
+}
+/* line 11, ../sass/xf_2.scss */
+.tjxf_container_list .lp_info .lp_name .btn {
+  padding: 2px 8px;
+  margin-left: 5px;
+  margin-top: -10px;
+  font-size: 10px;
+}
+/* line 18, ../sass/xf_2.scss */
+.tjxf_container_list .lp_info .house_details {
+  margin-top: 5px;
+  font-size: 12px;
+}
+/* line 22, ../sass/xf_2.scss */
+.tjxf_container_list .lp_info .house_times {
+  margin-top: -4px;
+  font-size: 12px;
+}
+/* line 26, ../sass/xf_2.scss */
+.tjxf_container_list .lp_info .address {
+  font-size: 12px;
+  color: #666;
+  margin-top: 20px;
+}
+/* line 32, ../sass/xf_2.scss */
+.tjxf_container_list .lp_price {
+  margin-top: 5.5%;
+}
+/* line 34, ../sass/xf_2.scss */
+.tjxf_container_list .lp_price .house_price {
+  text-align: center;
+  padding-right: 20%;
+}
+/* line 37, ../sass/xf_2.scss */
+.tjxf_container_list .lp_price .house_price span {
+  color: #ff6600;
+}
+/* line 39, ../sass/xf_2.scss */
+.tjxf_container_list .lp_price .house_price span .rmb {
+  font-size: 18px;
+}
+/* line 42, ../sass/xf_2.scss */
+.tjxf_container_list .lp_price .house_price span .tj_price {
+  font-size: 34px;
+}
+/* line 46, ../sass/xf_2.scss */
+.tjxf_container_list .lp_price .house_price .yj_price {
+  text-decoration: line-through;
+}
+/* line 50, ../sass/xf_2.scss */
+.tjxf_container_list .lp_price a {
+  background-color: #ff6600;
+  color: #fff;
+  margin-top: 7px;
+  padding: 8px 0;
+  width: 80%;
+  font-size: 16px;
+}

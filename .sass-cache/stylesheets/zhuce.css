@@ -1,0 +1,58 @@
+/* line 1, ../sass/zhuce.scss */
+.zhuce_header {
+  background-color: #ff6600;
+  padding: 6px 0;
+  margin: 0 9.5%;
+}
+/* line 5, ../sass/zhuce.scss */
+.zhuce_header .row {
+  margin: 0;
+}
+/* line 8, ../sass/zhuce.scss */
+.zhuce_header h4 {
+  color: #fff;
+  padding-left: 5%;
+}
+
+/* line 14, ../sass/zhuce.scss */
+.zhuce_content {
+  margin: 0 9.5%;
+  background-color: #fff;
+}
+/* line 17, ../sass/zhuce.scss */
+.zhuce_content .zhuce_info {
+  padding: 30px 18% 0 8%;
+  border-right: 1px solid #e0e0e0;
+  background-color: #ffffff;
+}
+/* line 21, ../sass/zhuce.scss */
+.zhuce_content .zhuce_info .verify {
+  padding: .4% 0;
+}
+/* line 24, ../sass/zhuce.scss */
+.zhuce_content .zhuce_info .btn-lg {
+  width: 50%;
+  background-color: #ff6600;
+  color: #fff;
+}
+/* line 30, ../sass/zhuce.scss */
+.zhuce_content .zhuce_brief {
+  padding-top: 30px;
+  background-color: #f6f6f6;
+}
+/* line 33, ../sass/zhuce.scss */
+.zhuce_content .zhuce_brief h4 {
+  padding-bottom: 15px;
+  color: #676767;
+  border-bottom: 1px dashed #9a9a9a;
+}
+/* line 37, ../sass/zhuce.scss */
+.zhuce_content .zhuce_brief h4 i {
+  color: #ea8207;
+}
+/* line 41, ../sass/zhuce.scss */
+.zhuce_content .zhuce_brief p {
+  margin-top: 15px;
+  font-size: 10px;
+  color: #9a9a9a;
+}

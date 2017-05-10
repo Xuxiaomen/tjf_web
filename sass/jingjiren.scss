@@ -1,0 +1,167 @@
+.agent_photo{
+    margin-top:3%;
+    padding:0 2%;
+    .agent_name{
+        margin-left: -30px;
+        margin-top:3%;
+        h5{
+            font-size: 18px;
+            span{
+                background-color: #d7d7d7;
+                color:#374047;
+                font-weight: 400;
+            }
+        } 
+        .agent_assess{
+            color:#ff6600;
+        }
+        .phone_nb{
+            margin-top:4%;
+            margin-left: -25px;
+            
+            span{
+                background-color: #ff6600;
+                font-size:20px;
+                font-weight: 400;
+            }
+        }
+        .zhuce_time{
+            margin-left: 0px;
+            color:#7b7b7b;
+        }
+    }
+    .zhuce_ewm{
+        p{
+            margin-top:5px;
+            margin-bottom: 0;
+            font-size: 10px;
+            color:#75797c;
+        }
+    }
+}
+
+.agent_content{
+    margin-top:20px;
+    .container-fulid{
+        margin:0 9%;
+        padding:20px 30px;
+        background-color:#fff;
+        h4{
+            padding-bottom:8px;
+            font-weight: 800;
+            color:#868686;
+            border-bottom:1px solid #c9c9c9;
+        }
+        .xq_brief_info{
+            p{
+                b{
+                    color:#727377;
+                    font-weight: 400;
+                }
+                span{
+                    color:#4b494a;
+                }
+            }
+        }
+        .flow{
+            .kfjl_content{
+                .table{
+                    width:80%;
+                    margin-top:5px;
+                    margin-left: 1.5%;
+                    thead{
+                        background-color: #f2f2f2;
+                        color:#3e3e3e;
+                        th{
+                            font-weight: 400;
+                        }
+                    }
+                }
+                .page{
+                    width:83%;
+                    margin-top:-20px;
+                    .total_nb{
+                       display: inline-block;
+                       float:left;
+                       margin-right: 8px;
+                    }
+                    .fenye_nb{
+                        float:left;
+                        display: inline-block;
+                        margin-top:7px;
+                        margin-right: 8px;
+                    }
+                }
+            }
+        }
+        .communicate{
+            .name{
+                width:30%;
+            }
+            .need{
+                margin-top:20px;
+            }
+            .submit{
+                .btn{
+                    background-color:#ff6600;
+                    padding:12px 15%;
+                }
+                p{
+                    margin:0;
+                }
+            }
+        }
+        .chat_box{
+            .chat_user{
+                padding:1% 0;
+                margin:20px 0 10px;
+                background-color:#f2f2f2;
+                .question{
+                    margin-left:-15px;
+                    margin-top:9px;
+                    p{
+                       margin:0;
+                    }
+                    .user_city{
+                        color:#686a69;
+                    }
+                }
+            }
+            .chat_agent{
+                .agent_info{
+                    p{
+                        margin:0; 
+                    }
+                    .agent_assess{
+                        i{
+                            font-size:10px;
+                            color:#ff6600;
+                        }
+                    }
+                }
+                .answer{
+                    margin-top:10px;
+                    margin-left:-30px;
+                    p{
+                        color:#ff6600;
+                    }
+                }
+            }
+            .page{
+                   
+                    .total_nb{
+                       display: inline-block;
+                       float:left;
+                       margin-right: 8px;
+                    }
+                    .fenye_nb{
+                        float:left;
+                        display: inline-block;
+                        margin-top:7px;
+                        margin-right: 8px;
+                    }
+                }
+        }
+    }
+}
+

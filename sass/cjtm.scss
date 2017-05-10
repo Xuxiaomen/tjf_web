@@ -1,0 +1,63 @@
+.cjtm{
+    margin:20px 9.6% 0;
+    padding-top:2.5%;
+    padding-bottom: 2%;
+    background-color:#fff;
+    .row{
+        margin:0;
+    }
+    h4{
+        margin-left:2%;
+        font-weight:800;
+        color:#7a7c79;
+    }
+    .flow{
+        background-color:#d7d7d7;
+        padding:2.5% 0;
+        .fa-tv{
+            color:#717171;
+        }
+        .fa-phone{
+            color:#0da26b;
+        }
+        .fa-bus{
+            color:#00e1cb;
+        }
+        .fa-legal{
+            color:#ff6600;
+        }
+        .fa-angle-right{
+            margin-left:10%;
+        }
+    }
+    .yy_info{
+        margin-left:2%;
+        padding:2% 0 3%;
+        border-bottom: 1px solid #bcbcbc;
+        p{
+            font-size:20px;
+            span{
+                color:#ff6600;
+            }
+        }
+        form{
+            .btn{
+                width:100%;
+                background-color:#ff6600;
+                color:#fff;
+                font-size:16px;
+            }
+        }
+    }
+    .tips{
+        padding-left: 2%;
+        h6{
+            color:#6c6c6c;
+        }
+        p{
+            font-size: 12px;
+            color:#ff6600;
+            margin:0;
+        }
+    }
+}

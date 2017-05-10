@@ -1,0 +1,275 @@
+/* line 1, ../sass/esfxq.scss */
+.esf_info {
+  width: 100%;
+  position: relative;
+  z-index: 1;
+}
+/* line 5, ../sass/esfxq.scss */
+.esf_info .container {
+  position: absolute;
+  left: 50%;
+  margin-left: -585px;
+  top: 20px;
+  z-index: 9;
+  background-color: #fff;
+}
+/* line 12, ../sass/esfxq.scss */
+.esf_info .container .lp_name {
+  background-color: #f8f8f8;
+}
+/* line 14, ../sass/esfxq.scss */
+.esf_info .container .lp_name h3 {
+  color: #6b6b6b;
+  margin-left: 5px;
+}
+/* line 18, ../sass/esfxq.scss */
+.esf_info .container .lp_name .btn {
+  margin-top: 14px;
+  background-color: #fff;
+  color: #6b6b6b;
+  font-size: 12px;
+  border: 1px solid #6b6b6b;
+}
+/* line 27, ../sass/esfxq.scss */
+.esf_info .container .esf_images .esf_img_lg {
+  padding: 10px 0 10px 20px;
+}
+/* line 29, ../sass/esfxq.scss */
+.esf_info .container .esf_images .esf_img_lg .img_sm {
+  margin-top: 10px;
+}
+/* line 31, ../sass/esfxq.scss */
+.esf_info .container .esf_images .esf_img_lg .img_sm i {
+  height: 66px;
+  line-height: 66px;
+  width: 12px;
+  text-align: center;
+  background-color: #e4e4e4;
+  border: 1px solid #bcbcbc;
+}
+/* line 39, ../sass/esfxq.scss */
+.esf_info .container .esf_images .esf_img_lg .img_sm img {
+  width: 100%;
+}
+/* line 42, ../sass/esfxq.scss */
+.esf_info .container .esf_images .esf_img_lg .img_sm .col-md-1 {
+  width: 5%;
+}
+/* line 45, ../sass/esfxq.scss */
+.esf_info .container .esf_images .esf_img_lg .img_sm .col-md-2 {
+  width: 22%;
+}
+/* line 51, ../sass/esfxq.scss */
+.esf_info .container .esf_xq {
+  padding-left: 3%;
+}
+/* line 53, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .lp_price {
+  margin-top: 8%;
+  border-bottom: 1px solid #bcbcbc;
+}
+/* line 56, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .lp_price h1 {
+  margin: 0;
+  font-size: 50px;
+  color: #ff6600;
+  font-weight: 800;
+}
+/* line 61, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .lp_price h1 span {
+  font-weight: 400;
+  font-size: 18px;
+}
+/* line 66, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .lp_price p {
+  margin: 0;
+}
+/* line 69, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .lp_price .lp_dj {
+  margin-top: 7px;
+  font-size: 18px;
+}
+/* line 73, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .lp_price .lp_address {
+  font-size: 10px;
+  color: #888;
+}
+/* line 78, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .lp_xq {
+  margin-top: 3.5%;
+}
+/* line 81, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .lp_xq p b {
+  color: #797979;
+  font-weight: 400;
+}
+/* line 87, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .yz_info {
+  margin-top: 2%;
+  padding: 8px 0;
+  background-color: #f2f2f2;
+}
+/* line 91, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .yz_info .row {
+  margin: 0;
+}
+/* line 94, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .yz_info .row .yz_time p {
+  margin: 0;
+}
+/* line 96, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .yz_info .row .yz_time p span {
+  color: #ff6600;
+}
+/* line 103, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .kf_time {
+  margin-top: 5%;
+}
+/* line 106, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .zy_btn {
+  margin-top: 3%;
+}
+/* line 109, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .zy_btn .zyyz .btn {
+  width: 65%;
+  background-color: #ff6600;
+  color: #fff;
+  font-size: 16px;
+}
+/* line 117, ../sass/esfxq.scss */
+.esf_info .container .esf_xq .zy_btn .reduce_price .btn {
+  margin-top: 5%;
+  font-size: 12px;
+  color: #6b6b6b;
+}
+/* line 127, ../sass/esfxq.scss */
+.esf_info .esf_bg-img {
+  position: relative;
+  z-index: 1;
+}
+
+/* line 134, ../sass/esfxq.scss */
+.esf_content {
+  margin-top: 20px;
+}
+/* line 136, ../sass/esfxq.scss */
+.esf_content .container {
+  padding: 20px 25px;
+  background-color: #fff;
+}
+/* line 139, ../sass/esfxq.scss */
+.esf_content .container h4 {
+  padding-bottom: 8px;
+  font-weight: 800;
+  color: #868686;
+  border-bottom: 1px solid #c9c9c9;
+}
+/* line 145, ../sass/esfxq.scss */
+.esf_content .container h5 {
+  color: #ff6600;
+  margin: 15px 0 20px;
+}
+/* line 151, ../sass/esfxq.scss */
+.esf_content .container .xq_brief_info p b {
+  color: #727377;
+  font-weight: 400;
+}
+/* line 155, ../sass/esfxq.scss */
+.esf_content .container .xq_brief_info p span {
+  color: #4b494a;
+}
+/* line 161, ../sass/esfxq.scss */
+.esf_content .container .agent .agent_info {
+  width: 10%;
+  float: left;
+  text-align: center;
+  margin-bottom: 25px;
+}
+/* line 166, ../sass/esfxq.scss */
+.esf_content .container .agent .agent_info .touxiang {
+  padding-top: 20px;
+}
+/* line 168, ../sass/esfxq.scss */
+.esf_content .container .agent .agent_info .touxiang img {
+  width: 80%;
+  margin-left: 2%;
+}
+/* line 173, ../sass/esfxq.scss */
+.esf_content .container .agent .agent_info .agent_name {
+  margin: 0;
+  font-size: 12px;
+}
+/* line 177, ../sass/esfxq.scss */
+.esf_content .container .agent .agent_info .agent_assess {
+  margin: 0;
+  font-size: 10px;
+  color: #ff6600;
+}
+/* line 182, ../sass/esfxq.scss */
+.esf_content .container .agent .agent_info .btn {
+  margin-top: 5px;
+  color: #ff6600;
+  background-color: #fff;
+  border-color: #ff9900;
+}
+/* line 190, ../sass/esfxq.scss */
+.esf_content .container .lp_around {
+  margin: 0;
+}
+/* line 193, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content {
+  padding-top: 50px;
+}
+/* line 195, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row {
+  margin: 0;
+}
+/* line 200, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row div {
+  text-align: center;
+}
+/* line 202, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row div div {
+  padding: 19px 15px;
+  border-radius: 29px;
+}
+/* line 205, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row div div i {
+  color: #fff;
+}
+/* line 210, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row .bus {
+  background-color: #f46485;
+}
+/* line 213, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row .subway {
+  background-color: #80a7e0;
+}
+/* line 216, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row .mortar-board {
+  background-color: #61ccde;
+}
+/* line 219, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row .shopping-cart {
+  background-color: #5dd3c7;
+}
+/* line 222, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row .plus {
+  background-color: #f5636d;
+}
+/* line 225, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row .cutlery {
+  background-color: #fdbc56;
+}
+/* line 228, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row .bank {
+  background-color: #fc8a54;
+}
+/* line 231, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row .gamepad {
+  background-color: #c297e7;
+}
+/* line 234, ../sass/esfxq.scss */
+.esf_content .container .lp_around .search .tab-content .row .map-marker {
+  background-color: #5ce0a6;
+}

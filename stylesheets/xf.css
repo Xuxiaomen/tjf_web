@@ -1,0 +1,68 @@
+/* line 1, ../sass/xf.scss */
+.zxtj_header {
+  margin: 0 9.5% 12px;
+  background-color: #e4e4e4;
+}
+/* line 4, ../sass/xf.scss */
+.zxtj_header .tj_tab {
+  padding: 8px 0;
+  background-color: #ff6600;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  width: 15%;
+}
+/* line 11, ../sass/xf.scss */
+.zxtj_header .tj_tab .fa-caret-down {
+  position: absolute;
+  top: 60%;
+  left: 42%;
+  color: #ff6600;
+}
+/* line 19, ../sass/xf.scss */
+.zxtj_header .view_tab i {
+  padding-right: 8px;
+  margin-right: 8px;
+  border-right: 1px solid #aeaeae;
+  height: 37px;
+  line-height: 37px;
+  color: #333;
+}
+/* line 27, ../sass/xf.scss */
+.zxtj_header .view_tab .price {
+  width: 50%;
+  position: absolute;
+  top: 8px;
+}
+
+/* line 36, ../sass/xf.scss */
+nav .total_nb {
+  float: left;
+  padding: 7px;
+}
+/* line 40, ../sass/xf.scss */
+nav .zdy_nb {
+  float: left;
+  padding: 4.5px;
+  width: 15%;
+  text-align: left;
+}
+/* line 45, ../sass/xf.scss */
+nav .zdy_nb input {
+  width: 45%;
+}
+/* line 49, ../sass/xf.scss */
+nav .ym_total_nb {
+  float: left;
+  padding: 7px;
+}
+/* line 53, ../sass/xf.scss */
+nav .submit {
+  width: 8%;
+  float: left;
+  padding: 4.2px;
+}
+/* line 57, ../sass/xf.scss */
+nav .submit .btn {
+  padding: 1.5px 8px;
+}

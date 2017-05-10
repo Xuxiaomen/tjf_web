@@ -1,0 +1,351 @@
+@charset "UTF-8";
+/* line 1, ../sass/index.scss */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 6, ../sass/index.scss */
+body {
+  padding-top: 50px;
+  background-color: #f2f2f2;
+  font-family: "Microsoft YaHei";
+}
+
+/* line 12, ../sass/index.scss */
+ul, li {
+  list-style: none;
+}
+
+/*顶部导航*/
+/* line 17, ../sass/index.scss */
+.navbar {
+  background-color: #363636;
+}
+/* line 21, ../sass/index.scss */
+.navbar .container .navbar-collapse li:hover {
+  background-color: #434343;
+}
+/* line 24, ../sass/index.scss */
+.navbar .container .navbar-collapse .active a {
+  background-color: #434343;
+}
+
+/*logo和搜索*/
+/* line 31, ../sass/index.scss */
+.fdd_search {
+  margin: 0;
+  padding: 15px 8.3333%;
+}
+/* line 37, ../sass/index.scss */
+.fdd_search .input-group span .btn {
+  background-color: #e52;
+}
+/* line 39, ../sass/index.scss */
+.fdd_search .input-group span .btn span {
+  color: #fff;
+}
+
+/* 轮播广告 */
+/* line 51, ../sass/index.scss */
+.carousel .item img {
+  width: 100%;
+}
+
+/*优势保障*/
+/* line 59, ../sass/index.scss */
+.fdd_header .fa-circle {
+  color: #ff6600;
+}
+
+/*主要内容 */
+/*特价新房*/
+/* line 67, ../sass/index.scss */
+.tjxf_header {
+  margin: 0;
+  padding: 15px 9.5%;
+}
+/* line 70, ../sass/index.scss */
+.tjxf_header a:hover {
+  text-decoration: none;
+}
+/* line 72, ../sass/index.scss */
+.tjxf_header a:hover b {
+  font-weight: 400;
+  color: #ff6600;
+}
+
+/* line 78, ../sass/index.scss */
+.tjxf_container {
+  margin: 0;
+  padding: 0 8.3333%;
+}
+/* line 81, ../sass/index.scss */
+.tjxf_container a {
+  text-decoration: none;
+}
+/* line 85, ../sass/index.scss */
+.tjxf_container .caption .lp_name {
+  color: #333;
+  border-bottom: 1px solid #888;
+  margin-bottom: 0;
+}
+/* line 89, ../sass/index.scss */
+.tjxf_container .caption .lp_name .lp {
+  font-size: 16px;
+}
+/* line 92, ../sass/index.scss */
+.tjxf_container .caption .lp_name .lp_city {
+  color: #666;
+  float: right;
+}
+/* line 97, ../sass/index.scss */
+.tjxf_container .caption .house_details {
+  color: #888;
+  margin-top: 5px;
+  font-size: 12px;
+}
+/* line 103, ../sass/index.scss */
+.tjxf_container .caption .house_price span {
+  color: #ff6600;
+}
+/* line 105, ../sass/index.scss */
+.tjxf_container .caption .house_price span .rmb {
+  font-size: 18px;
+}
+/* line 108, ../sass/index.scss */
+.tjxf_container .caption .house_price span .tj_price {
+  font-size: 20px;
+}
+/* line 112, ../sass/index.scss */
+.tjxf_container .caption .house_price .yj_price {
+  text-decoration: line-through;
+}
+/* line 116, ../sass/index.scss */
+.tjxf_container .caption .btn {
+  background-color: #ff6600;
+  color: #fff;
+}
+
+/*优惠团购*/
+/* line 125, ../sass/index.scss */
+.yhtg_header {
+  margin: 0;
+  padding: 15px 9.5%;
+  background-color: #fff;
+}
+/* line 129, ../sass/index.scss */
+.yhtg_header a:hover {
+  text-decoration: none;
+}
+/* line 131, ../sass/index.scss */
+.yhtg_header a:hover b {
+  font-weight: 400;
+  color: #ff6600;
+}
+
+/* line 138, ../sass/index.scss */
+.yhtg_container {
+  margin: 0;
+  background-color: #fff;
+}
+/* line 141, ../sass/index.scss */
+.yhtg_container a {
+  color: #333;
+}
+/* line 144, ../sass/index.scss */
+.yhtg_container img {
+  position: relative;
+}
+/* line 147, ../sass/index.scss */
+.yhtg_container .lp_name {
+  position: absolute;
+  bottom: 150px;
+  left: 12%;
+  z-index: 10;
+  color: #fff;
+}
+/* line 154, ../sass/index.scss */
+.yhtg_container .lp_name h3 span {
+  display: inline-block;
+  font-size: 14px;
+  margin-left: 40px;
+}
+/* line 161, ../sass/index.scss */
+.yhtg_container .row {
+  margin: 0;
+}
+/* line 163, ../sass/index.scss */
+.yhtg_container .row .text-right {
+  margin-top: 6%;
+}
+
+/*会员专区*/
+/* line 171, ../sass/index.scss */
+.hyzq_header {
+  background-color: #ff6600;
+  padding: 10px 0;
+  width: 81%;
+  margin: 20px 9.5% 20px;
+}
+/* line 176, ../sass/index.scss */
+.hyzq_header a:hover {
+  text-decoration: none;
+}
+/* line 178, ../sass/index.scss */
+.hyzq_header a:hover b {
+  font-weight: 400;
+  color: #ff6600;
+}
+
+/* line 185, ../sass/index.scss */
+.hyzq_container {
+  padding: 0 8.3333%;
+}
+/* line 187, ../sass/index.scss */
+.hyzq_container a {
+  text-decoration: none;
+}
+/* line 190, ../sass/index.scss */
+.hyzq_container .thumbnail {
+  background-color: #ff6600;
+  color: #fff;
+}
+/* line 193, ../sass/index.scss */
+.hyzq_container .thumbnail h6 {
+  color: #fff;
+  font-size: 18px;
+  text-align: center;
+}
+/* line 200, ../sass/index.scss */
+.hyzq_container .caption .yj_price {
+  color: #ffff00;
+  font-size: 28px;
+  text-align: center;
+}
+/* line 204, ../sass/index.scss */
+.hyzq_container .caption .yj_price span {
+  font-size: 20px;
+}
+/* line 208, ../sass/index.scss */
+.hyzq_container .caption .xj_price {
+  text-align: center;
+  font-size: 12px;
+  margin-top: -10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #fff;
+  color: #fff;
+}
+/* line 215, ../sass/index.scss */
+.hyzq_container .caption .xj_price b {
+  text-decoration: line-through;
+}
+/* line 218, ../sass/index.scss */
+.hyzq_container .caption .xj_price span {
+  color: #ffff00;
+}
+/* line 222, ../sass/index.scss */
+.hyzq_container .caption .house_details {
+  font-size: 12px;
+  color: #ffff00;
+  margin-top: -5px;
+}
+/* line 227, ../sass/index.scss */
+.hyzq_container .caption .service {
+  color: #fff;
+}
+/* line 229, ../sass/index.scss */
+.hyzq_container .caption .service a {
+  float: right;
+  margin-top: -5px;
+}
+/* line 234, ../sass/index.scss */
+.hyzq_container .caption .btn {
+  margin-top: -12px;
+}
+
+/*特价二手房*/
+/* line 241, ../sass/index.scss */
+.tjesf_header {
+  margin: 0;
+  padding: 15px 9.5%;
+  background-color: #fff;
+}
+/* line 245, ../sass/index.scss */
+.tjesf_header a:hover {
+  text-decoration: none;
+}
+/* line 247, ../sass/index.scss */
+.tjesf_header a:hover b {
+  font-weight: 400;
+  color: #ff6600;
+}
+
+/* line 253, ../sass/index.scss */
+.tjesf_container {
+  background-color: #fff;
+  margin: 0;
+  padding: 0 8.3333%;
+}
+/* line 258, ../sass/index.scss */
+.tjesf_container .thumbnail img {
+  position: relative;
+}
+/* line 261, ../sass/index.scss */
+.tjesf_container .thumbnail .lp_name {
+  position: absolute;
+  bottom: 150px;
+  left: 10%;
+  z-index: 10;
+  color: #fff;
+}
+/* line 272, ../sass/index.scss */
+.tjesf_container .caption .house_price .rmb {
+  font-size: 18px;
+}
+/* line 275, ../sass/index.scss */
+.tjesf_container .caption .house_price .price {
+  font-size: 30px;
+}
+/* line 278, ../sass/index.scss */
+.tjesf_container .caption .house_price small {
+  font-size: 20px;
+}
+/* line 281, ../sass/index.scss */
+.tjesf_container .caption .house_price a {
+  float: right;
+  margin-top: 4px;
+}
+
+/* line 290, ../sass/index.scss */
+.footer {
+  position: relative;
+  clear: both;
+  margin-top: 50px;
+  padding-top: 50px;
+  width: 100%;
+  height: 185px;
+  background-color: #888;
+}
+
+/* line 300, ../sass/index.scss */
+.footer .container {
+  width: 100%;
+}
+
+/* line 304, ../sass/index.scss */
+.footer .container div {
+  display: inline-block;
+  font-size: 14px;
+  color: #fff;
+  width: 45%;
+  line-height: 28px;
+}
+
+/* line 312, ../sass/index.scss */
+.footer img {
+  display: inline-block;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}

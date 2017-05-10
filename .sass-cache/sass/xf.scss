@@ -1,0 +1,62 @@
+.zxtj_header{
+    margin:0 9.5% 12px;
+    background-color:#e4e4e4;
+    .tj_tab{
+        padding:8px 0;
+        background-color:#ff6600;
+        color:#fff;
+        font-size: 16px;
+        text-align: center;
+        width:15%;
+         .fa-caret-down{
+            position:absolute;
+            top:60%;
+            left:42%;
+            color:#ff6600;
+        }
+    }
+    .view_tab{
+        i{
+            padding-right:8px;
+            margin-right:8px;
+            border-right:1px solid #aeaeae;
+            height:37px;
+            line-height: 37px;
+            color:#333;
+        }
+        .price{
+            width:50%;
+            position: absolute;
+            top:8px;
+        }
+    }
+}
+
+nav{
+    .total_nb{
+        float:left;
+        padding:7px;
+    }
+    .zdy_nb{
+        float:left;
+        padding:4.5px;
+        width:15%;
+        text-align: left;
+        input{
+            width:45%;   
+        }
+    }
+    .ym_total_nb{
+        float:left;
+        padding:7px;
+    }
+    .submit{
+        width:8%;
+        float:left;
+        padding:4.2px;
+        .btn{
+            padding:1.5px 8px;
+        }
+    }
+}
+

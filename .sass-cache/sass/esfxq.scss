@@ -1,0 +1,242 @@
+.esf_info{
+    width:100%;
+    position:relative;
+    z-index: 1;
+    .container{
+        position: absolute;
+        left:50%;
+        margin-left:-585px;
+        top:20px;
+        z-index: 9;
+        background-color:#fff;
+        .lp_name{
+            background-color:#f8f8f8;
+            h3{
+                color:#6b6b6b;
+                margin-left: 5px;
+            }
+            .btn{
+                margin-top:14px;
+                background-color:#fff;
+                color:#6b6b6b;
+                font-size: 12px;
+                border:1px solid #6b6b6b;
+            }
+        }
+        .esf_images{
+            .esf_img_lg{
+                    padding:10px 0 10px 20px;
+                    .img_sm{ 
+                        margin-top:10px;
+                        i{
+                        height:66px;
+                        line-height: 66px;
+                        width:12px;
+                        text-align: center;
+                        background-color:#e4e4e4;
+                            border:1px solid #bcbcbc;
+                        }
+                        img{
+                        width:100%;
+                        }
+                        .col-md-1{
+                            width:5%;
+                        }
+                        .col-md-2{
+                            width:22%;
+                        }
+                    }        
+                }
+            }
+            .esf_xq{
+                padding-left:3%;
+                .lp_price{ 
+                    margin-top:8%;
+                    border-bottom: 1px solid #bcbcbc;
+                    h1{
+                    margin:0;
+                    font-size:50px;
+                    color:#ff6600;
+                    font-weight: 800;
+                        span{
+                            font-weight: 400;
+                            font-size:18px;
+                        }
+                    }
+                    p{
+                        margin:0;
+                    }
+                    .lp_dj{
+                        margin-top:7px;
+                        font-size:18px;
+                    }
+                    .lp_address{
+                        font-size:10px;
+                        color:#888;
+                    }
+                }
+                .lp_xq{ 
+                    margin-top:3.5%;
+                    p{
+                        b{
+                            color:#797979;
+                            font-weight: 400;
+                        }
+                    }
+                }
+                .yz_info{
+                    margin-top:2%;
+                    padding:8px 0;
+                    background-color:#f2f2f2;
+                    .row{
+                        margin:0;
+                        .yz_time{
+                            p{
+                                margin:0;
+                                span{
+                                    color:#ff6600;
+                                }
+                            }
+                        }
+                    }
+                }
+                .kf_time{
+                    margin-top:5%;
+                }
+                .zy_btn{
+                    margin-top:3%; 
+                    .zyyz{
+                        .btn{
+                            width:65%;
+                            background-color:#ff6600;
+                            color:#fff;
+                            font-size:16px;
+                        }
+                    }
+                    .reduce_price{
+                        .btn{
+                            margin-top:5%;
+                            font-size:12px;
+                            color:#6b6b6b;
+                        }
+                    }
+                    
+                }
+            }
+        }
+        .esf_bg-img{
+            position:relative;
+            z-index: 1
+            
+        }
+    }
+
+.esf_content{
+    margin-top:20px;
+    .container{
+        padding:20px 25px;
+        background-color:#fff;
+        h4{
+            padding-bottom:8px;
+            font-weight: 800;
+            color:#868686;
+            border-bottom:1px solid #c9c9c9;
+        }
+        h5{
+            color:#ff6600;
+            margin:15px 0 20px;
+        }
+        .xq_brief_info{
+            p{
+                b{
+                    color:#727377;
+                    font-weight: 400;
+                }
+                span{
+                    color:#4b494a;
+                }
+            }
+        }
+        .agent{
+            .agent_info{
+                width:10%;
+                float:left;
+                text-align: center;
+                margin-bottom:25px;
+            .touxiang{
+                padding-top:20px;
+                img{
+                    width:80%;
+                    margin-left:2%;
+                    } 
+                }
+                .agent_name{
+                    margin:0;
+                    font-size:12px;
+                }
+                .agent_assess{
+                    margin:0;
+                    font-size:10px;
+                    color:#ff6600;
+                }
+                .btn{
+                    margin-top:5px;
+                    color:#ff6600;
+                    background-color:#fff;
+                    border-color:#ff9900;
+                }
+            }    
+        }
+        .lp_around{
+            margin:0;
+            .search{
+                .tab-content{
+                    padding-top:50px;
+                    .row{
+                        margin:0;
+                        p{
+                            
+                        }
+                        div{
+                            text-align: center;
+                            div{
+                                padding:19px 15px;
+                                border-radius: 29px;
+                                i{
+                                color:#fff;
+                                }
+                            }   
+                        }
+                        .bus{
+                             background-color:#f46485;
+                        }
+                        .subway{
+                            background-color:#80a7e0;
+                        }
+                        .mortar-board{
+                            background-color:#61ccde;
+                        }
+                        .shopping-cart{
+                            background-color:#5dd3c7;
+                        }
+                        .plus{
+                            background-color:#f5636d;   
+                        }
+                        .cutlery{
+                            background-color:#fdbc56;
+                        } 
+                        .bank{
+                            background-color:#fc8a54;
+                        }
+                        .gamepad{
+                            background-color:#c297e7;
+                        }
+                        .map-marker{
+                            background-color:#5ce0a6;
+                        }
+                    } 
+                }
+            }
+        }
+    }
+}

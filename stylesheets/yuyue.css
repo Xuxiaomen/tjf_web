@@ -1,0 +1,58 @@
+/* line 2, ../sass/yuyue.scss */
+.yuyue .yuyue_container {
+  background-color: #fff;
+  border: 5px solid #d7d7d7;
+  border-radius: 1.5%;
+}
+/* line 6, ../sass/yuyue.scss */
+.yuyue .yuyue_container .header {
+  padding: 15px 2.5% 10px;
+}
+/* line 8, ../sass/yuyue.scss */
+.yuyue .yuyue_container .header h4 {
+  margin-left: 3%;
+}
+/* line 12, ../sass/yuyue.scss */
+.yuyue .yuyue_container .flow {
+  padding: 2.5% 0;
+  background-color: #d7d7d7;
+}
+/* line 16, ../sass/yuyue.scss */
+.yuyue .yuyue_container .flow .fa-tv {
+  color: #717171;
+}
+/* line 19, ../sass/yuyue.scss */
+.yuyue .yuyue_container .flow .fa-phone {
+  color: #0da26b;
+}
+/* line 22, ../sass/yuyue.scss */
+.yuyue .yuyue_container .flow .fa-bus {
+  color: #00e1cb;
+}
+/* line 25, ../sass/yuyue.scss */
+.yuyue .yuyue_container .flow .fa-legal {
+  color: #ff6600;
+}
+/* line 28, ../sass/yuyue.scss */
+.yuyue .yuyue_container .flow .fa-angle-right {
+  margin-left: 3.5%;
+}
+/* line 32, ../sass/yuyue.scss */
+.yuyue .yuyue_container .yy_info {
+  padding: 2% 0 5%;
+}
+/* line 34, ../sass/yuyue.scss */
+.yuyue .yuyue_container .yy_info p {
+  font-size: 20px;
+}
+/* line 36, ../sass/yuyue.scss */
+.yuyue .yuyue_container .yy_info p span {
+  color: #ff6600;
+}
+/* line 41, ../sass/yuyue.scss */
+.yuyue .yuyue_container .yy_info form .btn {
+  width: 100%;
+  background-color: #ff6600;
+  color: #fff;
+  font-size: 16px;
+}

@@ -1,0 +1,214 @@
+/* line 1, ../sass/tjxq.scss */
+.tjxq_container {
+  margin: 0;
+  padding: 0 8.3333%;
+}
+/* line 4, ../sass/tjxq.scss */
+.tjxq_container .tjxq-left {
+  border-right: 1px solid #c7c7c7;
+}
+/* line 7, ../sass/tjxq.scss */
+.tjxq_container .tj_info {
+  margin: 0;
+}
+/* line 9, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar {
+  padding: 0;
+}
+/* line 11, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .tj_button {
+  padding: 8px 0;
+  background-color: #ff6600;
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+}
+/* line 17, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .tj_button .fa-caret-down {
+  position: absolute;
+  top: 5%;
+  left: 46%;
+  color: #ff6600;
+}
+/* line 24, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details {
+  padding-bottom: 15px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+/* line 28, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details .lp_name {
+  color: #6b6b6b;
+  background-color: #f9f9f9;
+  padding: .5% 0;
+}
+/* line 32, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details .lp_name h4 {
+  margin-left: 5px;
+}
+/* line 34, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details .lp_name h4 span {
+  font-size: 10px;
+  background-color: #f9f9f9;
+  border: 1px solid #ff6600;
+  color: #ff6600;
+  padding: 1px 5px;
+}
+/* line 43, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details img {
+  margin-top: 6%;
+}
+/* line 46, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details .house_details {
+  font-size: 12px;
+}
+/* line 49, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details .ls_price {
+  margin-top: 7.6%;
+  margin-bottom: 2%;
+  text-align: center;
+  font-size: 28px;
+  color: #ff6600;
+  font-weight: 800;
+}
+/* line 57, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details .ydj_price, .tjxq_container .tj_info .tj_sidebar .lp_details .ydzj_price, .tjxq_container .tj_info .tj_sidebar .lp_details .thj_price, .tjxq_container .tj_info .tj_sidebar .lp_details .thzj_price {
+  margin-top: 5px;
+  font-size: 12px;
+}
+/* line 61, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details .ydj_nb, .tjxq_container .tj_info .tj_sidebar .lp_details .ydzj_nb, .tjxq_container .tj_info .tj_sidebar .lp_details .thj_nb, .tjxq_container .tj_info .tj_sidebar .lp_details .thzj_nb {
+  margin-top: 4px;
+  font-size: 14px;
+}
+/* line 65, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details .ydj_nb, .tjxq_container .tj_info .tj_sidebar .lp_details .ydzj_nb {
+  text-decoration: line-through;
+}
+/* line 68, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details .thj_nb, .tjxq_container .tj_info .tj_sidebar .lp_details .thzj_nb {
+  color: #ff6600;
+}
+/* line 71, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details .cjtm {
+  padding: 7px 8.3333%;
+}
+/* line 73, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_sidebar .lp_details .cjtm a {
+  width: 100%;
+  font-size: 18px;
+  background-color: #ff9900;
+  color: #fff;
+}
+/* line 83, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_container .tj_header {
+  padding: 8px 0;
+  background-color: #d7d7d7;
+  color: #333;
+  text-align: right;
+}
+/* line 88, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_container .tj_header i {
+  color: #6b6b6b;
+}
+/* line 93, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_xq {
+  margin-left: -5px;
+  margin-right: -15px;
+}
+/* line 96, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_xq .tab-content {
+  margin-top: 12px;
+}
+/* line 98, ../sass/tjxq.scss */
+.tjxq_container .tj_info .tj_xq .tab-content .table {
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+/* line 105, ../sass/tjxq.scss */
+.tjxq_container .lp_info {
+  padding-left: 2%;
+  border-bottom: 1px solid #c9c9c9;
+}
+/* line 108, ../sass/tjxq.scss */
+.tjxq_container .lp_info a {
+  float: right;
+}
+/* line 112, ../sass/tjxq.scss */
+.tjxq_container .agent_info {
+  width: 14.2%;
+  float: left;
+  text-align: center;
+  margin-bottom: 15px;
+}
+/* line 117, ../sass/tjxq.scss */
+.tjxq_container .agent_info .touxiang {
+  padding-top: 20px;
+}
+/* line 119, ../sass/tjxq.scss */
+.tjxq_container .agent_info .touxiang img {
+  width: 80%;
+  margin-left: 2%;
+}
+/* line 124, ../sass/tjxq.scss */
+.tjxq_container .agent_info .agent_name {
+  margin: 0;
+  font-size: 12px;
+}
+/* line 128, ../sass/tjxq.scss */
+.tjxq_container .agent_info .agent_assess {
+  margin: 0;
+  font-size: 10px;
+  color: #ff6600;
+}
+/* line 133, ../sass/tjxq.scss */
+.tjxq_container .agent_info .btn {
+  margin-top: 5px;
+  color: #ff6600;
+  background-color: #fff;
+  border-color: #ff9900;
+}
+/* line 142, ../sass/tjxq.scss */
+.tjxq_container .tjxq-syw a, .tjxq_container .tjlp-content a {
+  text-decoration: none;
+}
+/* line 147, ../sass/tjxq.scss */
+.tjxq_container .tjlp_header {
+  padding: 8px 0;
+  background-color: #fff;
+  color: #333;
+  text-align: center;
+}
+/* line 154, ../sass/tjxq.scss */
+.tjxq_container .thumbnail {
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+/* line 157, ../sass/tjxq.scss */
+.tjxq_container .thumbnail p {
+  margin: 0;
+}
+/* line 160, ../sass/tjxq.scss */
+.tjxq_container .thumbnail .lp_name {
+  color: #222;
+}
+/* line 163, ../sass/tjxq.scss */
+.tjxq_container .thumbnail .house_price {
+  font-size: 10px;
+  color: #ff6600;
+}
+/* line 166, ../sass/tjxq.scss */
+.tjxq_container .thumbnail .house_price .yj_price {
+  margin-right: 5px;
+  text-decoration: line-through;
+}
+/* line 171, ../sass/tjxq.scss */
+.tjxq_container .thumbnail .lp_address {
+  margin-top: 15px;
+  font-size: 10px;
+  color: #888;
+}
+/* line 176, ../sass/tjxq.scss */
+.tjxq_container .thumbnail .house_details {
+  font-size: 10px;
+}

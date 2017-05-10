@@ -1,0 +1,33 @@
+/* line 2, ../sass/hygd.scss */
+.hyzq .hyzq_container {
+  margin-top: 25px;
+  margin-bottom: 0px;
+  padding: 0 10%;
+}
+/* line 6, ../sass/hygd.scss */
+.hyzq .hyzq_container .thumbnail {
+  margin-bottom: 0;
+}
+
+/* line 12, ../sass/hygd.scss */
+.hyzq_content {
+  padding: 0 10%;
+}
+/* line 15, ../sass/hygd.scss */
+.hyzq_content .container-fluid h4 {
+  padding-bottom: 9px;
+  font-size: 20px;
+  color: #505460;
+  border-bottom: 1px solid #bcbcbc;
+  font-weight: 800;
+}
+/* line 23, ../sass/hygd.scss */
+.hyzq_content .container-fluid .row .tjf_info {
+  padding: 5% 0;
+}
+/* line 25, ../sass/hygd.scss */
+.hyzq_content .container-fluid .row .tjf_info p {
+  color: #686c6b;
+  text-indent: 2em;
+  line-height: 30px;
+}

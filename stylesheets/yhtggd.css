@@ -1,0 +1,115 @@
+/* line 1, ../sass/yhtggd.scss */
+.yhtgxf_header {
+  padding: 0 10%;
+}
+/* line 3, ../sass/yhtggd.scss */
+.yhtgxf_header .row {
+  margin: 20px 0 12px;
+  background-color: #e4e4e4;
+}
+/* line 6, ../sass/yhtggd.scss */
+.yhtgxf_header .row .tj_tab {
+  padding: 8px 0;
+  background-color: #ff6600;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  width: 15%;
+}
+/* line 13, ../sass/yhtggd.scss */
+.yhtgxf_header .row .tj_tab .fa-caret-down {
+  position: absolute;
+  top: 60%;
+  left: 42%;
+  color: #ff6600;
+}
+
+/* line 23, ../sass/yhtggd.scss */
+.yhtgxf_content {
+  padding: 0 10%;
+}
+/* line 25, ../sass/yhtggd.scss */
+.yhtgxf_content a:hover {
+  text-decoration: none;
+}
+/* line 28, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container {
+  margin-bottom: 20px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #f7e3e4;
+}
+/* line 33, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_info {
+  margin-top: 1%;
+  margin-left: -15px;
+}
+/* line 36, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_info .lp_name {
+  margin-bottom: 10px;
+}
+/* line 38, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_info .lp_name .lp {
+  color: #333;
+  font-size: 28px;
+}
+/* line 42, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_info .lp_name .label {
+  background-color: #f39108;
+  margin-left: 5px;
+}
+/* line 47, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_info .address {
+  font-size: 12px;
+  color: #666;
+  margin-top: 8px;
+}
+/* line 51, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_info .address span {
+  display: inline-block;
+  margin-left: 10px;
+}
+/* line 56, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_info .house_price {
+  margin-top: 15px;
+  font-size: 12px;
+  color: #ff6600;
+}
+/* line 60, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_info .house_price span {
+  display: block;
+  font-size: 30px;
+}
+/* line 65, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_info .house_about {
+  margin-top: -4px;
+  color: #666;
+}
+/* line 69, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_info .hd_countdown {
+  color: #666;
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid #b28987;
+}
+/* line 74, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_info .hd_countdown span {
+  font-size: 18px;
+  color: #ff6600;
+}
+/* line 80, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_price {
+  margin-top: 20px;
+}
+/* line 82, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_price p {
+  font-size: 10px;
+  color: #666;
+}
+/* line 86, ../sass/yhtggd.scss */
+.yhtgxf_content .yhtgxf_container .lp_price a {
+  background-color: #ff6600;
+  color: #fff;
+  width: 70%;
+  font-size: 16px;
+}

@@ -1,0 +1,252 @@
+.yhtg_title{
+    margin-top:25px;
+    .title_content{
+        margin:0 8.3333%;
+        padding:15px 10px;
+        background-color:#ffcccc;
+        h3{
+            margin-top:6px;
+            margin-bottom: 0px;
+            padding: 23px 12px;
+            border:1px dashed red;
+            color:#ff6600;
+        }
+        p{
+            margin:0;
+            font-size: 10px;
+            padding:2px 0;
+        }
+        a{
+            padding:3% 0;
+            width:60%;
+            margin-top:20px;
+            background-color:#ff6600;
+            color:#fff;
+            font-size:16px;
+           
+        }
+    }
+}
+
+.yhtg_xq{
+        margin-top:20px;
+        padding:0 8.3333%;
+    .row{
+        margin:0;
+        padding-bottom:15px;
+        .yhtgxq_info{
+            .lp_name{
+                .row{
+                margin-left:-15px;
+                h2{
+                    margin:0;
+                }
+                .btn{
+                    background-color:#fff;
+                    color:#6b6b6b;
+                    font-size:12px;
+                    border:1px solid #6b6b6b;
+                    }
+                }    
+            }
+            .lp_price{
+                padding:15px;
+                background-color:#d7d7d7;
+                p{
+                    margin:0;
+                    font-weight: 800;
+                    font-size:22px;
+                    color:#ff6600;
+                }
+            }
+            .lp_xq{
+                padding-bottom:10px;
+                border-bottom:1px solid #bcbcbc;
+                p{
+                    margin-top:8px;
+                    margin-bottom:0;
+                }
+            }
+            .agent{
+                 .agent_info{
+                    width:33%;
+                    float:left;
+                    text-align: center;
+                    margin-bottom:10px;
+                    .touxiang{
+                        padding-top:10px;
+                        img{
+                            width:70%;
+                            margin-left:2%;
+                        } 
+                    }
+                    .agent_name{
+                        margin:0;
+                        font-size:12px;
+                    }
+                    .agent_assess{
+                        margin:0;
+                        font-size:10px;
+                        color:#ff6600;
+                    }
+                    .btn{
+                        margin-top:5px;
+                        color:#ff6600;
+                        background-color:#fff;
+                        border-color:#ff9900;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.fdjsq{
+    padding:12px 8.3333%;
+    background-color:#fff;
+    .js_container{
+        margin:0;
+        padding:15px;
+        border:1px solid #e1e1e1;
+        .js_condition{
+            h4{
+                text-align: center;
+            }
+            .row{
+                margin:0 -15px;
+               .js_choose{
+                padding-left:4%;
+                li{
+                    padding:10px 0;
+                    p{
+                        margin:0;
+                        span{
+                            margin-left:5px;
+                            b{
+                                font-size:20px;
+                                font-weight: 400;
+                            }
+                        }
+                    }
+                }
+                .block{
+                    select{
+                        width:65%;    
+                        }
+                    }
+                }
+                .btn{
+                    margin-top:120%;
+                    width:60%;
+                    padding:5% 10px;
+                    p{
+                        margin:0;
+                    }
+                }
+            } 
+        }
+        .js_result{
+            .result_title{
+                h4{
+                text-align: center;
+                margin-top:30px;
+                    a{
+                    float:right;
+                    font-size:12px;
+                    }
+                }    
+            }
+            .result_bar{
+                .result_nb{
+                    p{
+                        margin:10px 0;
+                        padding:15px 15px;
+                    }
+                    .sf{
+                        color:#2f69bf;
+                        background-color:#d6e1f3;
+                    }
+                    .dkje{
+                        background-color:#f6e4ce;
+                        color:#c37012;
+                    }
+                    .zjlx{
+                        background-color:#e2f3d3;
+                        color:#518d33;
+                    }
+                    .month_money{
+                        margin-top:15px;
+                        h5{
+                            font-size:18px;
+                            font-weight: 800;
+                            span{
+                                font-size: 10px;     
+                            }
+                            b{
+                                color:#c93a42;
+                            }
+                        }  
+                        small{
+                            color:#999999;
+                        }
+                    }
+                }
+            }
+            .rate{
+                margin-top:-60px;
+                text-align: right;
+            }
+        }
+    }
+}
+
+.qtyhtg_header{
+    margin:0;
+    padding:15px 9.5%;
+    h2{
+        color:#888;
+        a{
+            margin-left:5px;
+            font-size:14px;
+        }
+    }
+}
+    .qtyhtg_container{
+        margin:0;
+        padding:0 8.3333%;
+        .thumbnail{
+            .lp_name{
+                margin-left:0px;
+                margin-right: 0px;
+                margin-top:-28px;
+                color:#fff;
+                p{
+                   font-size: 16px;
+                   margin:0;
+                   }
+                span{
+                        font-size: 12px;
+                      }
+                }
+            }
+        .caption{
+            background-color:#f9dfdf;
+            .house_name{
+                font-size: 18px;
+                border-bottom:1px solid #c9c9c9;
+                a{
+                    color:#ff6600;
+                }
+            }
+            .house_price{
+                font-size:12px;
+                .price_average{
+                    margin-top:10px;
+                }
+                .btn{
+                    background-color:#ff6600;
+                    color:#fff;
+                }
+            } 
+        }
+    }

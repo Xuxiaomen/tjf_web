@@ -1,0 +1,73 @@
+/* line 1, ../sass/cjtm.scss */
+.cjtm {
+  margin: 20px 9.5% 0;
+  padding-top: 2.5%;
+  padding-bottom: 2%;
+  background-color: #fff;
+}
+/* line 6, ../sass/cjtm.scss */
+.cjtm h4 {
+  margin-left: 3%;
+  font-weight: 800;
+  color: #7a7c79;
+}
+/* line 11, ../sass/cjtm.scss */
+.cjtm .flow {
+  background-color: #d7d7d7;
+  padding: 2.5% 0;
+}
+/* line 14, ../sass/cjtm.scss */
+.cjtm .flow .fa-tv {
+  color: #717171;
+}
+/* line 17, ../sass/cjtm.scss */
+.cjtm .flow .fa-phone {
+  color: #0da26b;
+}
+/* line 20, ../sass/cjtm.scss */
+.cjtm .flow .fa-bus {
+  color: #00e1cb;
+}
+/* line 23, ../sass/cjtm.scss */
+.cjtm .flow .fa-legal {
+  color: #ff6600;
+}
+/* line 26, ../sass/cjtm.scss */
+.cjtm .flow .fa-angle-right {
+  margin-left: 10%;
+}
+/* line 30, ../sass/cjtm.scss */
+.cjtm .yy_info {
+  margin-left: 2%;
+  padding: 2% 0 3%;
+  border-bottom: 1px solid #bcbcbc;
+}
+/* line 34, ../sass/cjtm.scss */
+.cjtm .yy_info p {
+  font-size: 20px;
+}
+/* line 36, ../sass/cjtm.scss */
+.cjtm .yy_info p span {
+  color: #ff6600;
+}
+/* line 41, ../sass/cjtm.scss */
+.cjtm .yy_info form .btn {
+  width: 100%;
+  background-color: #ff6600;
+  color: #fff;
+  font-size: 16px;
+}
+/* line 49, ../sass/cjtm.scss */
+.cjtm .tips {
+  padding-left: 3%;
+}
+/* line 51, ../sass/cjtm.scss */
+.cjtm .tips h6 {
+  color: #6c6c6c;
+}
+/* line 54, ../sass/cjtm.scss */
+.cjtm .tips p {
+  font-size: 12px;
+  color: #ff6600;
+  margin: 0;
+}
